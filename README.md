@@ -13,7 +13,7 @@ Here, you’ll find everything organized in a clear and structured way:
 -  A roadmap that connects each topic to real **LeetCode challenges**.  
 
 This repo is designed to be a **companion for anyone learning DSA** — whether you’re just starting out or aiming to sharpen your coding interview skills.  
-It’s continuously updated, so every visit will bring you something new to learn. 🚀
+It’s continuously updated, so every visit will bring you something new to learn. 
 
 ---
 
